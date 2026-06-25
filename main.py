@@ -1,7 +1,7 @@
 
 """variables"""
 
-# sher = "aryan"
+# sherr = "aryan"
 
 # S = "students" #pascal case
 
