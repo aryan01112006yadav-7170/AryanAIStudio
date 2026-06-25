@@ -1,13 +1,13 @@
 
 """variables"""
 
-# sher = "harsh bhaiya"
+# sher = "aryan"
 
-# SheryiansSchool = "students" #pascal case
+# S = "students" #pascal case
 
-# sheryiansSchool = "students" #camel case
+# s = "students" #camel case
 
-# sheryians_school = "students" #snake case
+# s = "students" #snake case
 
 
 
