@@ -1,0 +1,4 @@
+# Ignore JDK/SDK binaries
+oracleJdk-26/
+*.dll
+*.exe
