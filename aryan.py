@@ -21,10 +21,29 @@
 #print(4%2)
 #print(5%2)
 #print((2+3)*(5+5))
-name_of_var = 2
-x = 1
-y = 2
-print(x + y)
-
-
-
+#name_of_var = 2
+#x = 1
+#y = 2
+#print(x + y)
+#print('string')
+#print("double")
+#print("i don't like that")
+#print("my name is {},my number is{}".format('aryan',420))
+#print("first {x} second{y}".format(x='aryan', y=420))
+#LIST
+#print([1, 2, 3])
+#print(['a','b','c'])
+#print(['1','a'])
+#mylist=['a','b','c']
+#mylist[0]= 'new'
+#mylist.append('d')
+#print(mylist)
+#mylist=[1,2,[100,200]]
+#print(mylist[2][1])
+#d = {'key1': 'value1', 'key2': 'value2'}
+#print(d['key1'])
+#print(d)
+#t = (1, 2, 3)
+#print(t)
+t={1,2,3}
+print(t)
