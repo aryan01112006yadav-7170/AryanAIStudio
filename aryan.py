@@ -18,4 +18,13 @@
 #print(1*3)
 #print(1/2)
 #print(2**4)
-print(4%2)
+#print(4%2)
+#print(5%2)
+#print((2+3)*(5+5))
+name_of_var = 2
+x = 1
+y = 2
+print(x + y)
+
+
+
