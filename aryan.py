@@ -64,6 +64,33 @@
 #else:
  #    print('nope')   
 #for loops
-seq = [1,2,3,4,5]
-for item in seq:
-   print(item) 
+#seq = [1,2,3,4,5]
+#for item in seq:
+ #  print(item) 
+#while loops
+#i=1
+#while i<5:
+ #   print('i is: {}'.format(i))
+  #  i=i+1
+#range
+#for x in range(5):
+ #   print('hi')
+#list comprehension
+#x=[1,2,3,4,5]
+#out=[]
+#for num in x:
+ #   out.append(num**2)
+  #  print(out)
+#def my_func():
+ #   print("hello")
+
+#my_func()
+def square(x):
+    return x**2 
+result = square(2)
+print(result)
+
+
+
+
+
