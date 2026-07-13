@@ -45,5 +45,25 @@
 #print(d)
 #t = (1, 2, 3)
 #print(t)
-t={1,2,3}
-print(t)
+#t={1,2,3}
+#print(t)
+         #basic operators 
+#comparsion operators
+#print(1 > 2)
+#print('A' == 'a')
+#logic operators
+#print((1 == 1) and ('a' == 'a'))
+#print((1 == 1) or ('a' == 'a'))
+#ELIF AND ELSE STATEMENTS
+#if 1 == 1:
+ #   print("yea!")
+#if 1 == 2:
+   # print('worked!')
+#elif 3 == 3:
+ #    print('second cond true!')    
+#else:
+ #    print('nope')   
+#for loops
+seq = [1,2,3,4,5]
+for item in seq:
+   print(item) 
